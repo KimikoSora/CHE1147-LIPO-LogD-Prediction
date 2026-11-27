@@ -40,3 +40,5 @@ The notebook saves tables and figures to `LIPO_Stratified_Results_Ipc_log1p/`.
 - `LIPO_All_Models_CV_Test.csv` — Cross-validation and held-out test results.
 - `LIPO_Three_Feature_Sets_Test_RMSE.png` — Test RMSE comparison across models and descriptor sets.
 - `environment.json` — Python and package versions recorded by the notebook.
+
+- - [`results/`](results/) — Model comparison results (CSV) and the test RMSE figure (PNG).
